@@ -1,0 +1,144 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="22"
+7-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+9
+10    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
+10-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-77
+10-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:24-74
+11
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-69
+12-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-66
+13    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+13-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-78
+13-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:20-75
+14    <uses-permission android:name="android.permission.BLUETOOTH" />
+14-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-66
+14-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:20-63
+15
+16    <uses-feature android:glEsVersion="0x00030000" />
+16-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-52
+16-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-49
+17    <uses-feature
+17-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-91
+18        android:name="android.hardware.vulkan.version"
+18-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-63
+19        android:required="false" />
+19-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:64-88
+20    <uses-feature
+20-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-87
+21        android:name="android.hardware.microphone"
+21-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-59
+22        android:required="false" />
+22-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:60-84
+23    <uses-feature
+23-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-88
+24        android:name="android.hardware.touchscreen"
+24-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-60
+25        android:required="false" />
+25-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:61-85
+26    <uses-feature
+26-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-99
+27        android:name="android.hardware.touchscreen.multitouch"
+27-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-71
+28        android:required="false" />
+28-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:72-96
+29    <uses-feature
+29-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:3-108
+30        android:name="android.hardware.touchscreen.multitouch.distinct"
+30-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:17-80
+31        android:required="false" />
+31-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:81-105
+32
+33    <application android:extractNativeLibs="true" >
+33-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:3-28:17
+33-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-48
+34        <meta-data
+34-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-69
+35            android:name="unity.splash-mode"
+35-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-48
+36            android:value="0" />
+36-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:49-66
+37        <meta-data
+37-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-74
+38            android:name="unity.splash-enable"
+38-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-50
+39            android:value="True" />
+39-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:51-71
+40        <meta-data
+40-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-78
+41            android:name="unity.launch-fullscreen"
+41-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-54
+42            android:value="True" />
+42-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:55-75
+43        <meta-data
+43-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-84
+44            android:name="unity.render-outside-safearea"
+44-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-60
+45            android:value="True" />
+45-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:61-81
+46        <meta-data
+46-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-81
+47            android:name="notch.config"
+47-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-43
+48            android:value="portrait|landscape" />
+48-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:44-78
+49        <meta-data
+49-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-84
+50            android:name="unity.auto-report-fully-drawn"
+50-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:16-60
+51            android:value="true" />
+51-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:61-81
+52
+53        <activity
+53-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:5-27:16
+54            android:name="com.unity3d.player.UnityPlayerActivity"
+54-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:15-68
+55            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+55-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:181-362
+56            android:exported="true"
+56-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:434-457
+57            android:hardwareAccelerated="false"
+57-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:398-433
+58            android:launchMode="singleTask"
+58-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:149-180
+59            android:resizeableActivity="false"
+59-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:363-397
+60            android:screenOrientation="landscape"
+60-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:111-148
+61            android:theme="@style/UnityThemeSelector" >
+61-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:69-110
+62            <intent-filter>
+62-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:7-24:23
+63                <category android:name="android.intent.category.LAUNCHER" />
+63-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:9-69
+63-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:19-66
+64
+65                <action android:name="android.intent.action.MAIN" />
+65-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:9-61
+65-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:17-58
+66            </intent-filter>
+67
+68            <meta-data
+68-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:7-82
+69                android:name="unityplayer.UnityActivity"
+69-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:18-58
+70                android:value="true" />
+70-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:59-79
+71            <meta-data
+71-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:7-70
+72                android:name="notch_support"
+72-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:18-46
+73                android:value="true" />
+73-->C:\Users\Tim\Voice Game\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:47-67
+74        </activity>
+75    </application>
+76
+77</manifest>

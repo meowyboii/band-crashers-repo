@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 112ffaf48baca6740a5985a93a0d7ba2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ryan rig_0
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 672
+        width: 481
+        height: 340
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.5222439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065c3d230a36b4b44bfb40ab33b5a6e6
+      internalID: 413178711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_1
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 576
+        width: 72
+        height: 242
+      alignment: 9
+      pivot: {x: 0.570026, y: 0.93232137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e6a4e51cc223b408a149b63d9a7f4a
+      internalID: 519000934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_2
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 579
+        width: 72
+        height: 246
+      alignment: 9
+      pivot: {x: 0.41246203, y: 0.9099198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9481cc393445dde449046b36b626ea0a
+      internalID: -317962999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_3
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 85
+        width: 181
+        height: 376
+      alignment: 9
+      pivot: {x: 0.87606084, y: 0.9324603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b1c32a23173884a9cb8668485c35bf
+      internalID: 1857249493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 91
+        width: 168
+        height: 370
+      alignment: 9
+      pivot: {x: 0.14735776, y: 0.9462865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf25d0b75e550384d96d15a9b8ed1d3e
+      internalID: 233739491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 153
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f7388a273665340821b2703a2a4b33
+      internalID: -939326196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_6
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 130
+        width: 147
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5757a84931233a345bbe32b62a1ef8fc
+      internalID: 1474874145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_7
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 493
+        width: 83
+        height: 105
+      alignment: 9
+      pivot: {x: 0.18107587, y: 0.1758699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867dc2f0a0403014a99da118cacd28cd
+      internalID: -2080307092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_8
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 671
+        width: 102
+        height: 44
+      alignment: 9
+      pivot: {x: 0.15397793, y: 0.55729395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed5f6c9e476ea7489b7167345f0b005
+      internalID: -1372251675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 656
+        width: 132
+        height: 67
+      alignment: 9
+      pivot: {x: 0.11802858, y: 0.8010154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2937708c46bbbb74caeaa55948b9a198
+      internalID: 909848278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 504
+        width: 80
+        height: 75
+      alignment: 9
+      pivot: {x: 0.15336075, y: 0.80252033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4abf576f8e1d942a6d641f7bcda048
+      internalID: -1868533843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 484
+        width: 272
+        height: 236
+      alignment: 9
+      pivot: {x: 0.21267891, y: 0.1207803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1325ac1757180164eb717f3a8ab22d3a
+      internalID: 1770297846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_12
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 811
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248b8a11bffc31446bf6f8dfbe240169
+      internalID: 300379188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_13
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 845
+        width: 92
+        height: 120
+      alignment: 9
+      pivot: {x: 0.82882625, y: 0.8886546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5043b124fe8249c498401913bf81a9cb
+      internalID: -262233304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_14
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 832
+        width: 100
+        height: 142
+      alignment: 9
+      pivot: {x: 0.14705749, y: 0.90833163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0195cefdf3c6740bd69773f2417dc0
+      internalID: 852265992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 363
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79169d05cb6494b8808def1b9fb970
+      internalID: 210597159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 360
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669b2153c17976947b2c5663e708881c
+      internalID: 469554663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 356
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8edb68f2c371444b9da21b05e66a6c9
+      internalID: -1083575889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_18
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 352
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a33b4d589294e4da961cce5ae142bf
+      internalID: -1474871001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryan rig_19
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 351
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f0951fe64d3374683b1400e87b9a4e
+      internalID: 1476112149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ryan rig_0: 413178711
+      ryan rig_1: 519000934
+      ryan rig_10: -1868533843
+      ryan rig_11: 1770297846
+      ryan rig_12: 300379188
+      ryan rig_13: -262233304
+      ryan rig_14: 852265992
+      ryan rig_15: 210597159
+      ryan rig_16: 469554663
+      ryan rig_17: -1083575889
+      ryan rig_18: -1474871001
+      ryan rig_19: 1476112149
+      ryan rig_2: -317962999
+      ryan rig_3: 1857249493
+      ryan rig_4: 233739491
+      ryan rig_5: -939326196
+      ryan rig_6: 1474874145
+      ryan rig_7: -2080307092
+      ryan rig_8: -1372251675
+      ryan rig_9: 909848278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
